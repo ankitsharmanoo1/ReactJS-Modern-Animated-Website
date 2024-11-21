@@ -3,7 +3,6 @@ const Navbar = () => {
   return (
     <div className="fixed z-[999]  w-full px-20 py-8 bg-zinc-900 font-['NeueMontreal'] flex justify-between items-center">
       <div className="logo w-14">
-
        <img src="https://www.softshala.com/static/media/company_logo.b94798c1d5b4239b0a1a.png" className="Company-logo" alt="brand"></img>
       </div>
          
